@@ -5,7 +5,7 @@ NOTE: This aplication was make in NodeJs, so for test you must have NodeJs insta
 
 Steps to run application:
 
-1- Inside the root folder, open a terminal and execute this command 'node app.js';
+1- Inside the root folder, open a terminal and execute this command 'npm install && node app.js';
 
 2 - With a client http, like Postman or Restclient, choice and send the requisitions to test the API.
 - Creating poi:
